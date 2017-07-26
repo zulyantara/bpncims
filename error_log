@@ -1,0 +1,4 @@
+[24-Jan-2014 14:49:50] PHP Fatal error:  Call to undefined method Cpanel_model::list_sekolah() in /home/bp331924/public_html/bpncims/application/controllers/cpanels.php on line 27
+[24-Jan-2014 14:49:59] PHP Fatal error:  Call to undefined method Cpanel_model::list_siswa() in /home/bp331924/public_html/bpncims/application/controllers/cpanels.php on line 40
+[24-Jan-2014 14:50:36] PHP Fatal error:  Call to undefined method Cpanel_model::list_sekolah() in /home/bp331924/public_html/bpncims/application/controllers/cpanels.php on line 27
+[24-Jan-2014 17:04:38] PHP Fatal error:  Call to undefined method Cpanel_model::list_sekolah() in /home/bp331924/public_html/bpncims/application/controllers/cpanels.php on line 27
